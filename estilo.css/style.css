@@ -1,12 +1,14 @@
-h1 {
+h1{
     color: dodgerblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
-    font-size: xx-large;
+    font-size: 100px;
+ text-align:center ;
 }
 h2{
     color: dodgerblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
-    font-size:x-large;
+    font-size: 50px;
+    text-align: center;
 }
